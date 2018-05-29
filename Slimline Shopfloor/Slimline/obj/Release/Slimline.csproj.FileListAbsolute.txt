@@ -1,0 +1,16 @@
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline.csprojAssemblyReference.cache
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.additional_info.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.admin_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.allocation_note.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Completion_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Main_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.packing_report.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Part_complete.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.PO_report.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Properties.Resources.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Purchase_order.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Stock.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.Work_allocation.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline.csproj.GenerateResource.cache
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline_Shopfloor.exe.licenses
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Release\Slimline.csproj.CoreCompileInputs.cache

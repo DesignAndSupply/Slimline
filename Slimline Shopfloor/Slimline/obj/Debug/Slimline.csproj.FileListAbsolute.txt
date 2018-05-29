@@ -1,0 +1,99 @@
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Slimline_Shopfloor.exe.config
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Slimline_Shopfloor.exe.manifest
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Slimline_Shopfloor.application
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Slimline_Shopfloor.exe
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Slimline_Shopfloor.pdb
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.SqlServer.Types.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\EnvDTE.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\stdole.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\Microsoft.MSXML.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline.csprojAssemblyReference.cache
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.additional_info.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.admin_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.allocation_note.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Completion_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Main_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.packing_report.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Part_complete.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.PO_report.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Properties.Resources.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Purchase_order.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Stock.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.Work_allocation.resources
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline.csproj.GenerateResource.cache
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.exe.licenses
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline.csproj.CoreCompileInputs.cache
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.exe.manifest
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.application
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline.csproj.CopyComplete
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.exe
+S:\Design and Supply CSharp\Source Files\Slimline Shopfloor\Slimline Shopfloor\obj\Debug\Slimline_Shopfloor.pdb
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.csprojAssemblyReference.cache
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.additional_info.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.admin_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.allocation_note.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Completion_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Login_Form.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Main_menu.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.packing_report.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Part_complete.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.PO_report.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Purchase_order.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Stock.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Work_allocation.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.csproj.GenerateResource.cache
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Slimline.exe.config
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Slimline.exe.manifest
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Slimline.application
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Slimline.exe
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Slimline.pdb
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.SqlServer.Types.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\EnvDTE.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\stdole.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\Microsoft.MSXML.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline_Shopfloor.Properties.Resources.resources
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.exe.licenses
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.csproj.CoreCompileInputs.cache
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.exe.manifest
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.application
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.csproj.CopyComplete
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.exe
+S:\Design and Supply CSharp\Source Files\Slimline\Slimline Shopfloor\Slimline\obj\Debug\Slimline.pdb
