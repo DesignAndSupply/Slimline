@@ -172,7 +172,11 @@ namespace Slimline_Shopfloor
         {
 
             SqlCommand update_department_goal = new SqlCommand(Public.correct_department_goal, Public.order_database);
-            Public.order_database.Open();
+            if (Public.order_database != null && Public.order_database.State == ConnectionState.Closed)
+            {
+                Public.order_database.Open();
+
+            }
             update_department_goal.Parameters.AddWithValue("@date", Public.sqlFormattedDate);
             update_department_goal.Parameters.AddWithValue("@time", txt_total.Text);
             update_department_goal.ExecuteNonQuery();

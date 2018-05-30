@@ -513,7 +513,7 @@
             this.btn_update.BackColor = System.Drawing.Color.AliceBlue;
             this.btn_update.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_update.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.btn_update.Location = new System.Drawing.Point(733, 100);
+            this.btn_update.Location = new System.Drawing.Point(733, 104);
             this.btn_update.Name = "btn_update";
             this.btn_update.Size = new System.Drawing.Size(83, 38);
             this.btn_update.TabIndex = 17;
@@ -527,7 +527,7 @@
             this.txt_total.Enabled = false;
             this.txt_total.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_total.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.txt_total.Location = new System.Drawing.Point(725, 144);
+            this.txt_total.Location = new System.Drawing.Point(725, 148);
             this.txt_total.Name = "txt_total";
             this.txt_total.Size = new System.Drawing.Size(100, 22);
             this.txt_total.TabIndex = 16;

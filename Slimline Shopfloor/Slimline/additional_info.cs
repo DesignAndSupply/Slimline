@@ -114,10 +114,49 @@ namespace Slimline_Shopfloor
 
         private void btn_complete_Click(object sender, EventArgs e)
         {
+            if(cmb_box.SelectedItem == null)
+            {
+
+
+                MessageBox.Show("Please Select Number of Boxes", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (cmb_frame.SelectedItem == null)
+            {
+
+
+                MessageBox.Show("Please frame Yes/No", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+
+            if (cmb_keys.SelectedItem == null)
+            {
+
+
+                MessageBox.Show("Please Keys Yes/No", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+
+            if (cmb_pallet.SelectedItem == null)
+            {
+
+
+                MessageBox.Show("Please Select On pallet Yes/NO ", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
 
             SqlCommand insert_additional = new SqlCommand(Public.insert_additional, Public.order_database);
             SqlCommand insert_loose_item = new SqlCommand(Public.insert_loose_item, Public.order_database);
-            Public.order_database.Open();
+            if (Public.order_database != null && Public.order_database.State == ConnectionState.Closed)
+            {
+                Public.order_database.Open();
+
+            }
+          
            
                 for (int i = 0; i < grid_loose_item.Rows.Count-1; i++)
                 {
@@ -139,17 +178,38 @@ namespace Slimline_Shopfloor
                 }
             try
             {
-                insert_additional.Parameters.AddWithValue("@keys", cmb_keys.SelectedItem);
-                insert_additional.Parameters.AddWithValue("@box", cmb_box.SelectedItem);
-                insert_additional.Parameters.AddWithValue("@qty", cmb_pallet.SelectedItem);
-                insert_additional.Parameters.AddWithValue("@frame", cmb_frame.SelectedItem);
+                int keys;
+                int frame;
+               
+                if (Convert.ToString (cmb_keys.SelectedItem) == "Yes")
+                {
+
+                    keys = -1;
+                }
+                else
+                {
+                    keys = 0;
+                }
+                if (Convert.ToString(cmb_frame.SelectedItem) == "Yes")
+                {
+
+                    frame = -1;
+                }
+                else
+                {
+                    frame = 0;
+                }
+                insert_additional.Parameters.AddWithValue("@keys",keys);
+                insert_additional.Parameters.AddWithValue("@box",cmb_box.SelectedItem);
+                insert_additional.Parameters.AddWithValue("@qty", Convert.ToString(cmb_pallet.SelectedItem));
+                insert_additional.Parameters.AddWithValue("@frame",frame);
                 insert_additional.Parameters.AddWithValue("@id", txt_door_id.Text);
                 insert_additional.ExecuteNonQuery();
 
             }
-            catch
+            catch (Exception ex)
             {
-                MessageBox.Show("Please Ensure All Values Are Selected", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show(ex.ToString(),"");
                 return;
             }
 

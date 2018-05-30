@@ -181,7 +181,7 @@ namespace Slimline_Shopfloor
                             }
                             Public.order_database.Close();
                             Completion_menu menu = new Completion_menu();
-                            //this.Hide();
+                            this.ActiveControl = txt_first_validation;
                             txt_first_validation.Text = "";
                             txt_second_validation.Text = "";
                            

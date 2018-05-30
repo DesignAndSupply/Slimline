@@ -124,7 +124,7 @@ namespace Slimline_Shopfloor
         public static string select_loose_items = "Select * from dbo.loose_items";
         public static string select_packing_notes = "SELECT id,description FROM dbo.loose_item_packing_note";
         public static string insert_loose_item = "INSERT INTO dbo.loose_item_to_door (door_id, loose_item_id, [date], user_id, quantity, [note]) VALUES (@door_id,@loost_item_id, @date, @user_id, @quantity,@notes)";
-        public static string insert_additional = "UPDATE dbo.door_transport SET keys_in_frame = @keys, welded_frame = @frame, boxes = @box, welded_frame_quantity = @qty WHERE door_id = @Id ";
+        public static string insert_additional = "UPDATE dbo.door_transport SET keys_in_frame = @keys, welded_frame = @frame, boxes = @box, on_pallet = @qty WHERE door_id = @Id ";
 
         //stock
         public static string select_quantity_same_sr_addon = "SELECT door.quantity_same FROM door INNER JOIN SR_addon_stock ON door.id = SR_addon_stock.door_id WHERE(door.id = @id) AND(door.status_id = '1' OR  door.status_id = '2')";

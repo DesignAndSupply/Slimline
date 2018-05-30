@@ -121,7 +121,7 @@ namespace Slimline_Shopfloor
             {
 
                 MessageBox.Show("This door is marked as complete!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
-               // return;
+                return;
             }
 
           DialogResult complete =  MessageBox.Show("Mark Job As Complete?", "Warning!"  , MessageBoxButtons.YesNo, MessageBoxIcon.Question);
