@@ -31,14 +31,14 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(allocation_note));
             this.panel8 = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
-            this.pct_logo = new System.Windows.Forms.PictureBox();
+            this.pct_icon = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.lbl_op = new System.Windows.Forms.Label();
             this.lbl_door = new System.Windows.Forms.Label();
             this.txt_note = new System.Windows.Forms.TextBox();
             this.btn_save_note = new System.Windows.Forms.Button();
             this.panel9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,20 +53,20 @@
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.panel9.Controls.Add(this.pct_logo);
+            this.panel9.Controls.Add(this.pct_icon);
             this.panel9.Location = new System.Drawing.Point(0, 0);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(167, 1100);
             this.panel9.TabIndex = 22;
             // 
-            // pct_logo
+            // pct_icon
             // 
-            this.pct_logo.Image = global::Slimline_Shopfloor.Properties.Resources.Slimline1;
-            this.pct_logo.Location = new System.Drawing.Point(0, 0);
-            this.pct_logo.Name = "pct_logo";
-            this.pct_logo.Size = new System.Drawing.Size(164, 97);
-            this.pct_logo.TabIndex = 15;
-            this.pct_logo.TabStop = false;
+            this.pct_icon.Image = ((System.Drawing.Image)(resources.GetObject("pct_icon.Image")));
+            this.pct_icon.Location = new System.Drawing.Point(0, 0);
+            this.pct_icon.Name = "pct_icon";
+            this.pct_icon.Size = new System.Drawing.Size(164, 97);
+            this.pct_icon.TabIndex = 29;
+            this.pct_icon.TabStop = false;
             // 
             // panel1
             // 
@@ -138,7 +138,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Allocation Note";
             this.panel9.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
@@ -154,6 +154,6 @@
         private System.Windows.Forms.TextBox txt_note;
         private System.Windows.Forms.Button btn_save_note;
         private System.Windows.Forms.Label lbl_op;
-        private System.Windows.Forms.PictureBox pct_logo;
+        private System.Windows.Forms.PictureBox pct_icon;
     }
 }

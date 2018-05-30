@@ -36,11 +36,11 @@
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.txtUsername = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pct_icon = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.btn_skip = new System.Windows.Forms.Button();
-            this.pct_logo = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).BeginInit();
             this.SuspendLayout();
             // 
             // label2
@@ -116,11 +116,20 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.panel1.Controls.Add(this.pct_logo);
+            this.panel1.Controls.Add(this.pct_icon);
             this.panel1.Location = new System.Drawing.Point(0, -1);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(884, 100);
             this.panel1.TabIndex = 16;
+            // 
+            // pct_icon
+            // 
+            this.pct_icon.Image = ((System.Drawing.Image)(resources.GetObject("pct_icon.Image")));
+            this.pct_icon.Location = new System.Drawing.Point(0, 0);
+            this.pct_icon.Name = "pct_icon";
+            this.pct_icon.Size = new System.Drawing.Size(164, 97);
+            this.pct_icon.TabIndex = 29;
+            this.pct_icon.TabStop = false;
             // 
             // panel2
             // 
@@ -144,15 +153,6 @@
             this.btn_skip.UseVisualStyleBackColor = false;
             this.btn_skip.Click += new System.EventHandler(this.btn_skip_Click);
             // 
-            // pct_logo
-            // 
-            this.pct_logo.Image = global::Slimline_Shopfloor.Properties.Resources.Slimline1;
-            this.pct_logo.Location = new System.Drawing.Point(0, 0);
-            this.pct_logo.Name = "pct_logo";
-            this.pct_logo.Size = new System.Drawing.Size(164, 97);
-            this.pct_logo.TabIndex = 15;
-            this.pct_logo.TabStop = false;
-            // 
             // Login_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -172,7 +172,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -189,6 +189,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Button btn_skip;
-        private System.Windows.Forms.PictureBox pct_logo;
+        private System.Windows.Forms.PictureBox pct_icon;
     }
 }

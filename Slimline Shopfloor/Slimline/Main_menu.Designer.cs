@@ -31,7 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main_menu));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pct_logo = new System.Windows.Forms.PictureBox();
+            this.pct_icon = new System.Windows.Forms.PictureBox();
             this.btn_stock = new System.Windows.Forms.Button();
             this.btn_packing = new System.Windows.Forms.Button();
             this.btn_po = new System.Windows.Forms.Button();
@@ -40,7 +40,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txt_second_validation = new System.Windows.Forms.TextBox();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -54,7 +54,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.panel2.Controls.Add(this.pct_logo);
+            this.panel2.Controls.Add(this.pct_icon);
             this.panel2.Controls.Add(this.btn_stock);
             this.panel2.Controls.Add(this.btn_packing);
             this.panel2.Controls.Add(this.btn_po);
@@ -64,14 +64,14 @@
             this.panel2.Size = new System.Drawing.Size(167, 1104);
             this.panel2.TabIndex = 11;
             // 
-            // pct_logo
+            // pct_icon
             // 
-            this.pct_logo.Image = global::Slimline_Shopfloor.Properties.Resources.Slimline1;
-            this.pct_logo.Location = new System.Drawing.Point(0, 0);
-            this.pct_logo.Name = "pct_logo";
-            this.pct_logo.Size = new System.Drawing.Size(164, 97);
-            this.pct_logo.TabIndex = 31;
-            this.pct_logo.TabStop = false;
+            this.pct_icon.Image = ((System.Drawing.Image)(resources.GetObject("pct_icon.Image")));
+            this.pct_icon.Location = new System.Drawing.Point(0, 0);
+            this.pct_icon.Name = "pct_icon";
+            this.pct_icon.Size = new System.Drawing.Size(164, 97);
+            this.pct_icon.TabIndex = 31;
+            this.pct_icon.TabStop = false;
             // 
             // btn_stock
             // 
@@ -182,7 +182,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Main Menu";
             this.panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -199,7 +199,7 @@
         private System.Windows.Forms.TextBox txt_second_validation;
         private System.Windows.Forms.Button btn_packing;
         private System.Windows.Forms.Button btn_stock;
-        private System.Windows.Forms.PictureBox pct_logo;
+        private System.Windows.Forms.PictureBox pct_icon;
     }
 }
 

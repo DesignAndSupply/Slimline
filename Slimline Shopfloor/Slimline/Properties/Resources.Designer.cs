@@ -283,16 +283,6 @@ namespace Slimline_Shopfloor.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Slimline1 {
-            get {
-                object obj = ResourceManager.GetObject("Slimline1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap SlimlineLogo {
             get {
                 object obj = ResourceManager.GetObject("SlimlineLogo", resourceCulture);

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Stock));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -36,10 +37,9 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Stock));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pct_logo = new System.Windows.Forms.PictureBox();
+            this.pct_icon = new System.Windows.Forms.PictureBox();
             this.grid_stock = new System.Windows.Forms.DataGridView();
             this.btn_decrease = new System.Windows.Forms.DataGridViewButtonColumn();
             this.btn_increase = new System.Windows.Forms.DataGridViewButtonColumn();
@@ -51,7 +51,7 @@
             this.lbl_staff = new System.Windows.Forms.Label();
             this.btn_add = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.grid_stock)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.grid_pallet)).BeginInit();
             this.SuspendLayout();
@@ -67,20 +67,20 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.panel2.Controls.Add(this.pct_logo);
+            this.panel2.Controls.Add(this.pct_icon);
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(167, 1104);
             this.panel2.TabIndex = 12;
             // 
-            // pct_logo
+            // pct_icon
             // 
-            this.pct_logo.Image = global::Slimline_Shopfloor.Properties.Resources.Slimline1;
-            this.pct_logo.Location = new System.Drawing.Point(0, 0);
-            this.pct_logo.Name = "pct_logo";
-            this.pct_logo.Size = new System.Drawing.Size(164, 97);
-            this.pct_logo.TabIndex = 15;
-            this.pct_logo.TabStop = false;
+            this.pct_icon.Image = ((System.Drawing.Image)(resources.GetObject("pct_icon.Image")));
+            this.pct_icon.Location = new System.Drawing.Point(0, 0);
+            this.pct_icon.Name = "pct_icon";
+            this.pct_icon.Size = new System.Drawing.Size(164, 97);
+            this.pct_icon.TabIndex = 29;
+            this.pct_icon.TabStop = false;
             // 
             // grid_stock
             // 
@@ -300,7 +300,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Stock";
             this.panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.grid_stock)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.grid_pallet)).EndInit();
             this.ResumeLayout(false);
@@ -322,6 +322,6 @@
         private System.Windows.Forms.Button btn_add;
         private System.Windows.Forms.DataGridViewButtonColumn btn_decrease;
         private System.Windows.Forms.DataGridViewButtonColumn btn_increase;
-        private System.Windows.Forms.PictureBox pct_logo;
+        private System.Windows.Forms.PictureBox pct_icon;
     }
 }

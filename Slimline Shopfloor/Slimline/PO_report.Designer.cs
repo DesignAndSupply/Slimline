@@ -37,10 +37,10 @@
             this.txt_po = new System.Windows.Forms.TextBox();
             this.btn_search = new System.Windows.Forms.Button();
             this.po_itemTableAdapter = new Slimline_Shopfloor.PO_datasetTableAdapters.po_itemTableAdapter();
-            this.pct_logo = new System.Windows.Forms.PictureBox();
+            this.pct_icon = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.po_itemBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PO_dataset)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).BeginInit();
             this.SuspendLayout();
             // 
             // po_itemBindingSource
@@ -102,14 +102,14 @@
             // 
             this.po_itemTableAdapter.ClearBeforeFill = true;
             // 
-            // pct_logo
+            // pct_icon
             // 
-            this.pct_logo.Image = global::Slimline_Shopfloor.Properties.Resources.Slimline1;
-            this.pct_logo.Location = new System.Drawing.Point(0, 0);
-            this.pct_logo.Name = "pct_logo";
-            this.pct_logo.Size = new System.Drawing.Size(164, 97);
-            this.pct_logo.TabIndex = 15;
-            this.pct_logo.TabStop = false;
+            this.pct_icon.Image = ((System.Drawing.Image)(resources.GetObject("pct_icon.Image")));
+            this.pct_icon.Location = new System.Drawing.Point(0, 0);
+            this.pct_icon.Name = "pct_icon";
+            this.pct_icon.Size = new System.Drawing.Size(164, 97);
+            this.pct_icon.TabIndex = 29;
+            this.pct_icon.TabStop = false;
             // 
             // PO_report
             // 
@@ -117,7 +117,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.CornflowerBlue;
             this.ClientSize = new System.Drawing.Size(898, 525);
-            this.Controls.Add(this.pct_logo);
+            this.Controls.Add(this.pct_icon);
             this.Controls.Add(this.btn_search);
             this.Controls.Add(this.txt_po);
             this.Controls.Add(this.rpt_viewer);
@@ -127,7 +127,7 @@
             this.Load += new System.EventHandler(this.PO_report_Load);
             ((System.ComponentModel.ISupportInitialize)(this.po_itemBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PO_dataset)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -141,6 +141,6 @@
         private PO_datasetTableAdapters.po_itemTableAdapter po_itemTableAdapter;
         private System.Windows.Forms.TextBox txt_po;
         private System.Windows.Forms.Button btn_search;
-        private System.Windows.Forms.PictureBox pct_logo;
+        private System.Windows.Forms.PictureBox pct_icon;
     }
 }

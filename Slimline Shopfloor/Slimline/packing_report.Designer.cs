@@ -39,10 +39,10 @@
             this.txt_door = new System.Windows.Forms.TextBox();
             this.rpt_viewer = new Microsoft.Reporting.WinForms.ReportViewer();
             this.view_label = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.pct_logo = new System.Windows.Forms.PictureBox();
+            this.pct_icon = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.c_view_packing_reportBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.packing_dataset)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).BeginInit();
             this.SuspendLayout();
             // 
             // c_view_packing_reportBindingSource
@@ -126,14 +126,14 @@
             this.view_label.Size = new System.Drawing.Size(396, 246);
             this.view_label.TabIndex = 20;
             // 
-            // pct_logo
+            // pct_icon
             // 
-            this.pct_logo.Image = global::Slimline_Shopfloor.Properties.Resources.Slimline1;
-            this.pct_logo.Location = new System.Drawing.Point(0, 0);
-            this.pct_logo.Name = "pct_logo";
-            this.pct_logo.Size = new System.Drawing.Size(164, 97);
-            this.pct_logo.TabIndex = 21;
-            this.pct_logo.TabStop = false;
+            this.pct_icon.Image = ((System.Drawing.Image)(resources.GetObject("pct_icon.Image")));
+            this.pct_icon.Location = new System.Drawing.Point(0, 0);
+            this.pct_icon.Name = "pct_icon";
+            this.pct_icon.Size = new System.Drawing.Size(164, 97);
+            this.pct_icon.TabIndex = 29;
+            this.pct_icon.TabStop = false;
             // 
             // packing_report
             // 
@@ -141,7 +141,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.CornflowerBlue;
             this.ClientSize = new System.Drawing.Size(1242, 578);
-            this.Controls.Add(this.pct_logo);
+            this.Controls.Add(this.pct_icon);
             this.Controls.Add(this.view_label);
             this.Controls.Add(this.btn_search);
             this.Controls.Add(this.txt_door);
@@ -153,7 +153,7 @@
             this.Load += new System.EventHandler(this.packing_report_Load);
             ((System.ComponentModel.ISupportInitialize)(this.c_view_packing_reportBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.packing_dataset)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pct_logo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pct_icon)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -167,6 +167,6 @@
         private System.Windows.Forms.TextBox txt_door;
         private Microsoft.Reporting.WinForms.ReportViewer rpt_viewer;
         private Microsoft.Reporting.WinForms.ReportViewer view_label;
-        private System.Windows.Forms.PictureBox pct_logo;
+        private System.Windows.Forms.PictureBox pct_icon;
     }
 }
